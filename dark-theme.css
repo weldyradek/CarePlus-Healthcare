@@ -1,0 +1,8 @@
+/* Styles for dark theme */
+body.dark-theme {
+    background-color: #121212;
+    color: #ffffff;
+}
+header, footer {
+    background-color: #1e1e1e;
+}
